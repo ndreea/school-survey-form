@@ -5,8 +5,7 @@ Este repositorio contiene un formulario de contacto para una escuela, desarrolla
 El formulario permite a los usuarios ingresar su nombre, correo electrónico y mensaje. La interfaz se ha diseñado de manera sencilla y profesional para que pueda integrarse fácilmente en sitios web educativos.
 
 ## Tecnologías utilizadas
-HTML: para la estructura del formulario.
-CSS: para el estilo y diseño visual del formulario.
+HTML: para la estructura del formulario. | CSS: para el estilo y diseño visual del formulario.
 
 ## Propósito
 Este proyecto tiene como objetivo practicar y demostrar habilidades en HTML y CSS adquiridas en el curso. Es ideal como plantilla base para formularios de contacto en proyectos educativos o personales.
