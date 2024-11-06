@@ -1,0 +1,133 @@
+
+/* ESTILOS GENERALES */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    margin: 0;
+    color: black;
+    font-family: poppins, sans-serif;
+    font-size: 18px;
+    background-image: linear-gradient(115deg, #f67a5767, #f67a5767) ,url("../img/office.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*------------------------------------*/
+
+
+/* CONTENEDOR GENERAL */
+
+.container{
+    width: 100%;
+    margin: 3rem auto 0 auto;
+}
+
+/*------------------------------------*/
+
+
+/* ENCABEZADO */
+
+/* Contenido del header */
+header{
+    padding-bottom: 2em;
+    text-align: center;
+}
+
+/* Título */
+#title{
+    font-weight: 600;
+}
+
+/* Descripción */
+#description{
+    font-style: normal;
+}
+
+
+/*------------------------------------*/
+
+
+/* CONTENIDO GENERAL DE LA PÁGINA */
+
+/* Contenedor del forumulario */
+#survey-form{
+    margin: 0 auto;
+    background-color: #f67a57;
+    max-width: 650px;
+    width: 60vw;
+    min-width: 300px;
+    padding: 30px;
+    border-radius: 5px;
+    display: block;
+}
+
+/* Añadimos los estilos a las cajas */
+fieldset{
+    border: none;
+    margin-bottom: 0.8em;
+}
+
+/* Añadimos los estilos a los labels */
+label{
+    margin: 0.5em 0;
+    display: block;
+}
+
+/* Las palabras que están en () se les ha reducido un poco el tamaño */
+span{
+    font-size: 14px;
+}
+
+/* Labels de nombre, email y edad */
+#name-label, #email-label, #number-label{ 
+    margin: 0.5rem 0;
+}
+
+/* Añadimos espacio arriba del label de email y el de edad */
+#email-label, #number-label{
+   margin-top: 1.5em;
+}
+
+/* Inputs de nombre, email, edad, dropdowns, biografía y botón de enviar */
+#text, #email, #number,
+#dropdown, #bio{
+    padding: 15px 5px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 3px;
+    font-family: poppins, sans-serif;
+}
+
+/* Inputs dropdowns, biografía les añadimos espacio arriba y abajo */
+#dropdown, #bio{
+    margin: 0.5rem 0;
+}
+
+/* Tamaño de checkbox y selección de puntos, agrandamos un poco */
+#recommend, #checkbox{
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+}
+
+/* Botón enviar */
+#submit{
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    padding: 15px 0;
+    border: none;
+    border-radius: 3px;
+}
