@@ -10,9 +10,6 @@ HTML: para la estructura del formulario. | CSS: para el estilo y diseño visual 
 ## Propósito
 Este proyecto tiene como objetivo practicar y demostrar habilidades en HTML y CSS adquiridas en el curso. Es ideal como plantilla base para formularios de contacto en proyectos educativos o personales.
 
-## Ejecución
-Puedes abrir el archivo index.html en cualquier navegador para ver el formulario en funcionamiento.
-
 ## Mejoras Futuras
 Validación de formularios en el frontend: añadir JavaScript para validar los campos antes de enviar el formulario. || Diseño responsivo: optimizar el formulario para dispositivos móviles y diferentes tamaños de pantalla. || Integración con backend: conectar el formulario a un servidor para manejar el envío de datos y responder a los usuarios.
 
