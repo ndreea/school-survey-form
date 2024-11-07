@@ -17,7 +17,7 @@ Puedes abrir el archivo index.html en cualquier navegador para ver el formulario
 Validación de formularios en el frontend: añadir JavaScript para validar los campos antes de enviar el formulario. || Diseño responsivo: optimizar el formulario para dispositivos móviles y diferentes tamaños de pantalla. || Integración con backend: conectar el formulario a un servidor para manejar el envío de datos y responder a los usuarios.
 
 ## Licencia
-Este proyecto es del Curso de FreeCodeCamp que he adaptado y modificado en cuanto a mis necesidades.
+Este proyecto es del Curso de freeCodeCamp que he adaptado y modificado en cuanto a mis necesidades. No se permite la comercialización de los archivos. Se han usado la imagen de la escuela solamente para la finalidad del proyecto.
 
 
 
